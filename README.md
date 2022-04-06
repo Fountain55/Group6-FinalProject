@@ -9,6 +9,8 @@ Haotian Fang haf60@pitt.edu TODO.py
 Justin Zeng 
 Maya Iwabuchi 
 
+# Canvas Group Number
+Group 6
 
 # Description and Links to the datasets used
 1. Allegheny County COVID-19 counts by municipality and Pittsburgh neighborhood including tests, deaths, and confirmed/probable cases.
