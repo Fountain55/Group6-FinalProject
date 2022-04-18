@@ -6,7 +6,9 @@ TODO
 
 # Team members names, notebooks, and email addresses
 Haotian Fang haf60@pitt.edu TODO.py
+<br/>
 Justin Zeng juz52@pitt.edu
+<br/>
 Maya Iwabuchi 
 
 # Canvas Group Number
