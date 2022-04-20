@@ -7,7 +7,7 @@ Group 6
 ### Team members names, notebooks, and email addresses
 Haotian Fang haf60@pitt.edu haf60/publicwifi.ipynb
 <br/>
-Justin Zeng juz52@pitt.edu
+Justin Zeng juz52@pitt.edu juz52/covid.ipynb
 <br/>
 Maya Iwabuchi mji29@pitt.edu mji29/policeData.ipynb
 
